@@ -1,5 +1,7 @@
+
+
 .first-card {
-  background-color: #3B4452;
+  background-color: #ffffff;
   padding: 10px 50px 50px;
   box-shadow: 0px 15px 30px rgba(0,0,0,0.1);
   border-radius: 5px;
@@ -8,62 +10,62 @@
 }
 
 .second-card {
-  background-color: #3B4452;
-  padding: 40px;
+  background-color: #ffffff;
+  padding: 1px ;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 5px;
-  margin: 10px 250px ;
+  margin: 1px 250px;
   text-align: center;
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 
 body {
-  background-color: #57606e;
+  background-color: #2C4251;
   font-family: 'Open Sans';
 }
 
 h1 {
-  color: #92DE85;
+  color: #2C4251;
   font-family: rowdies;
   text-align: center;
 }
 
 h2 {
-  color: #92DE85;
+  color: #B6C649;
   text-align: center;
   margin-bottom: 15px;
 }
 
 p {
-  color: #F9F871;
+  color: #2C4251;
   text-align: center;
   font-size: x-large;
 }
 
 .btn-blue {
-  background-color: #326A7F;
-  color: #F9F871;
+  background-color: #D16666;
+  color: #ffffff;
   text-align: center;
   text-decoration: none;
   font-size: 25px;
-  padding: 5px 10px;
+  padding: 10px 80px;
   border-radius: 2px;
 }
 
 .btn-blue:hover {
-  background-color: #14634f;
-  color: #F9F871;
+  background-color: #ffffff;
+  color: #D16666;
 }
 
 
 
 ul {
-  color: #3BBB9A;
+  color: #2C4251;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -92,11 +94,11 @@ li a {
 }
 
 .list-inline i {
-  color: #3BBB9A;
+  color: #2C4251;
 }
 
 .list-inline i:hover {
- color: #14634f;
+ color: #D16666;
 }
 
 @media (max-width: 960px) {
